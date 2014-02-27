@@ -11,6 +11,8 @@ public class Hello {
 		
 		System.out.println("This is end..");
 		
+		System.out.println("this is just begning of end");
+		
 		
 
 	}
