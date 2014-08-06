@@ -15,6 +15,7 @@ public class Hello {
 		
 		System.out.println("jenkinssssssss wowwwwwwwww");
 		
+		System.out.println("jenkins in ubuntu");
 		
 		System.out.println("byeeeeeeeeeeeeeeeeeeee");
 		
